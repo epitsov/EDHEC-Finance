@@ -1,1 +1,0 @@
-message = 'Georgi i ivan'
